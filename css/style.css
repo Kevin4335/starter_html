@@ -1,0 +1,38 @@
+body{
+    background-color : #8dd2dd;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 24px;
+    font-family:Georgia;
+    text-align: center;
+}
+
+p{
+    line-height: 45px;
+}
+
+img{
+    border: solid 5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+nav li{
+    margin-left: 50px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav{
+    border: 2px solid black;
+}
+
+#skip{
+    padding: 25px;
+    font-size: 20px;
+
+}
